@@ -19,7 +19,8 @@ Tools used:
 ## Step 1.
 
 Download the zip file or use below command to clone repository
-''''
+````
 git clone
-''''
+````
+
 
